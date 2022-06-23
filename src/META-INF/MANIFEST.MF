@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: aqua2.jar lib/mysql-connector-java-5.0.8-bin.jar
+Main-Class: main.AquaEditorApplication

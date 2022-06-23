@@ -1,0 +1,24 @@
+20.06.2008-29.08.2008
+Abschlussprojekt des Lehrgangs "WIFI Software Developer" / WIFI Wien
+JControl Aquariumsteuerung
+
+Funktion:
+Design, Implementierung
+
+Projekt-Beschreibung:
+Steuerung, die selbständig und automatisch das Aquarium überwacht, heizt und die Fische füttert.
+
+Aufgabe/Tätigkeit:
+•	Data modeling (ERD)
+•	Design & Implementierung des Datenbankverbindungsmoduls (JDBC, DAO)
+•	Design & Implementierung des Dateneditors (GUI, Swing)
+•	Erstellen von Dokumentationen
+
+Systemumgebung:
+MS Windows XP, MySQL 5.0.51b, JControl IDE 3.3.0 
+
+Kurzbeschreibung von JControl Aquariumsteuerung:
+Die zu programmierende Software errechnet optimal definierte Szenarien für Aquarien. 
+Es gibt zusätzlich noch ein JControl Modul (www. Jcontrol.org) welches für tatsächliche Arbeit 
+an einem angeschlossenen Aquarium verrichtet. Die jeweiligen Besatzungen werden in einer Datenbank 
+gespeichert und administriert.

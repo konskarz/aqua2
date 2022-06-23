@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/aqua2/aqua2.jar"/>
+    <options buildIfNeeded="true"
+		compress="true"
+		descriptionLocation="/aqua2/aqua2.jardesc"
+		exportErrors="false"
+		exportWarnings="false"
+		includeDirectoryEntries="false"
+		overwrite="false" saveDescription="true"
+		storeRefactorings="false"
+		useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false"
+		manifestLocation="/aqua2/src/META-INF/MANIFEST.MF"
+		manifestVersion="1.0"
+		reuseManifest="false"
+		saveManifest="false"
+		usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true"
+		exportJavaFiles="false"
+		exportOutputFolder="false">
+        <javaElement handleIdentifier="=aqua2/src"/>
+    </selectedElements>
+</jardesc>

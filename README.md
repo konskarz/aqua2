@@ -1,7 +1,7 @@
 # AquaEditor2
-Automatic aquarium control. Final project of the course "WIFI Software Developer Java"
+2008, Automatic aquarium control. Final project of the course "WIFI Software Developer Java"
 
-20.06.2008 – 29.08.2008, [Wirtschaftsförderungsinstitut der Wirtschaftskammer Wien](https://www.wifi.at/)
+[Wirtschaftsförderungsinstitut der Wirtschaftskammer Wien](https://www.wifi.at/), 20.06.2008 – 29.08.2008
 
 ## Tasks
 - data modeling (ERD)
